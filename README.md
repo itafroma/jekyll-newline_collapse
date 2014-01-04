@@ -41,5 +41,5 @@ can be found in the `LICENSE` file.
 [1]: http://kerotaa.hateblo.jp "kerotaa’s website"
 [2]: https://gist.github.com/kerotaa/5788650 "kerotaa’s remove-empty-lines-html.rb"
 [3]: http://marktrapp.com "Mark Trapp’s website"
-[4]: http://marktrapp.com/projects/jekyll-collapse-newlines "jekyll-archive project page"
+[4]: http://marktrapp.com/projects/jekyll-collapse-newlines "Jekyll Newline Collapse project page"
 [5]: https://rubygems.org/gems/jekyll-itafroma-collapse_newlines "RubyGems project page"
