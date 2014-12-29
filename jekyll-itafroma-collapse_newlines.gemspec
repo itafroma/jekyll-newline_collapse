@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ['Mark Trapp']
   s.email       = 'mark@marktrapp.com'
   s.files       = ['lib/jekyll/itafroma/collapse_newlines.rb']
-  s.homepage    =
-    'http://marktrapp.com/projects/jekyll-collapse-newlines'
-  s.license       = 'MIT'
+  s.homepage    = 'http://marktrapp.com/projects/jekyll-collapse-newlines'
+  s.license     = 'MIT'
 end
